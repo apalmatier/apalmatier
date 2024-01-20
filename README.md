@@ -1,12 +1,10 @@
-Hi, I’m @apalmatier! I'm a SRE/Software Engineer/Whatever by day and sometimes night.
+Hi, I’m @apalmatier! I'm a SRE/Software Engineer at Quantum Metric by day, experimentor and gamer by night.
 
-I’m interested in topics like CI/CD, Observability, and automation in any form.
+I’m interested in topics like CI/CD, Observability, and automation in any form. I enjoy any language that doesn't end in "Script", but mostly I stick to Python and GoLang nowadays.
 
-I’m currently deep diving into the topics I work with daily. I've learned "enough" breadth for now and I think it's time to really dig into the things
-I'm doing on a day-to-day basis. I've begun to master Kubernetes, the Grafana Stack, and GCP. I'm familiar with many other tech components, but mostly "as needed".
+I've become sufficiently good at Kubernetes and GCP, so now I need to get back to focusing on GoLang itself as it's been a while since I've written much code.
 
-How to reach me best is reaching out on LinkedIn for professional topics, maybe some day I'll make a "junk" email for other things... I'm never on social
-media, so don't bother looking.
+How to reach me best is reaching out on LinkedIn for professional topics https://www.linkedin.com/in/alexpalmatier/
 
 <!---
 apalmatier/apalmatier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
