@@ -1,4 +1,4 @@
-Hi, I’m @apalmatier! I'm a SRE/Software Engineer at Quantum Metric by day, experimentor and gamer by night.
+Hi, I’m @apalmatier! I'm a SRE/Software Engineer by day, experimentor and gamer by night.
 
 I’m interested in topics like CI/CD, Observability, and automation in any form. I enjoy any language that doesn't end in "Script", but mostly I stick to Python and GoLang nowadays.
 
